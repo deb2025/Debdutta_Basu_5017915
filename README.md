@@ -1,4 +1,4 @@
-# This github repository contains all the 5 week assignments from Java-FSE track. This github repository is owned by - 
+# This github repository contains all the 5 week assignments from Java-FSE track for the Cognizant Digital Nurture Program 3.0. This github repository is owned by - 
 # Name - Debdutta Basu 
 # Superset_ID = 5017915
 # Cognizant Registered Mail ID - debdutta.basu.2020@gmail.com
